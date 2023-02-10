@@ -13,7 +13,7 @@ All blocks will have a texture: Small crumbs.
 - [ ] Update 1, version 1.1
 - [ ] Update 1, version 1.2
 - [ ] Update 1, version 1.3
-- [ ] Final update version 1.4.
+- [ ] Final update version 1.4
 
 # Information about the modification
 
