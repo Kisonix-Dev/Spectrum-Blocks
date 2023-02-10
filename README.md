@@ -1,13 +1,13 @@
-# Spectrum Blocks 
+# Spectrum Blocks
 
 Hi all. Today I started developing a mod called Spectrum Blocks.
 The mod will provide 480 blocks of different RGB shades.
 This modification will make your buildings more realistic and beautiful.
 All blocks will have a texture: Small crumbs.
 
-# Brief Development Stages 
+# Brief Development Stages
 
-- [x] Publication of news about the modification. 
+- [x] Publication of news about the modification.
 - [ ] Mod assembly. 
 - [ ] Publishing a mod. :tada:
 
@@ -16,12 +16,12 @@ All blocks will have a texture: Small crumbs.
 | Name | Description |
 | --- | --- |
 | Type: | Solid Block |
-| Requirements: | No | 
+| Requirements: | No |
 | Does gravity work: | No |
 | Transparency: | No |
 | Luminosity: | No |
-| Explosion resistance: | 3 |
-| Durability: | 2 |
+| Explosion resistance: | 6 |
+| Durability: | 1.5 |
 | Dropout: | same block |
 | Flammable: | No |
 | Lights up from lava: | No |
