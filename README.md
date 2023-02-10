@@ -1,6 +1,6 @@
 # Spectrum Blocks
 
-• Hi. Today I started developing a mod called Spectrum Blocks. 
+• Hi. Today I started developing a mod called Spectrum Blocks.
 
 • The mod will provide 480 blocks of different RGB shades.
 
@@ -16,7 +16,7 @@
 
 - [x] Publication of news about the modification.
 - [x] Mod assembly.
-- [ ] Publishing a mod. :tada:
+- [x] Publishing a mod. :tada:
 - [ ] Update 1, version 1.1
 - [ ] Update 1, version 1.2
 - [ ] Update 1, version 1.3
