@@ -8,7 +8,7 @@ All blocks will have a texture: Small crumbs.
 # Brief Development Stages
 
 - [x] Publication of news about the modification.
-- [ ] Mod assembly. 
+- [ ] Mod assembly.
 - [ ] Publishing a mod. :tada:
 
 # Information about the modification
@@ -47,4 +47,4 @@ All blocks will have a texture: Small crumbs.
 | --- | --- |
 | Name: | Spectrum block |
 | Registry name: | spectrum_block |
-| Command: | spectrum_blocks:spectrum_block_1- from: 1 to: 480. |
+| Command: | spectrum_blocks:spectrumblock_1- from: 1 to: 480. |
