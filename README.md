@@ -45,6 +45,6 @@ All blocks will have a texture: Small crumbs.
 
 | Name | Description |
 | --- | --- |
-| Name: | Spectrum block |
-| Registry name: | spectrum_block |
+| Name: | Spectrum Blocks |
+| Registry name: | spectrum_blocks |
 | Command: | spectrum_blocks:spectrumblock_1- from: 1 to: 480. |
