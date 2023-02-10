@@ -4,6 +4,7 @@ Hi all. Today I started developing a mod called Spectrum Blocks.
 The mod will provide 480 blocks of different RGB shades.
 This modification will make your buildings more realistic and beautiful.
 All blocks will have a texture: Small crumbs.
+Texture Resolution: 128x128.
 
 # Brief Development Stages
 
