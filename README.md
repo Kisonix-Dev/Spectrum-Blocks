@@ -9,7 +9,7 @@ Texture Resolution: 128x128.
 # Brief Development Stages
 
 - [x] Publication of news about the modification.
-- [ ] Mod assembly.
+- [x] Mod assembly.
 - [ ] Publishing a mod. :tada:
 - [ ] Update 1, version 1.1
 - [ ] Update 1, version 1.2
