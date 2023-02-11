@@ -17,10 +17,10 @@
 - [x] Publication of news about the modification.
 - [x] Mod assembly.
 - [x] Publishing a mod. :tada:
-- [ ] Update 1, version 1.1
-- [ ] Update 1, version 1.2
-- [ ] Update 1, version 1.3
-- [ ] Final update version 1.4
+- [ ] Update 1, version 1.1.0
+- [ ] Update 2, version 1.2.0
+- [ ] Update 3, version 1.3.0
+- [ ] Final update version 1.4.0
 
 # Information about the modification
 
