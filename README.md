@@ -20,7 +20,7 @@
 - [X] Update 1, version 1.1.0
 - [X] Update 2, version 1.2.0
 - [X] Update 3, version 1.3.0
-- [ ] Final update version 1.4.0
+- [X] Final update version 1.4.0
 
 # Information about the modification
 
