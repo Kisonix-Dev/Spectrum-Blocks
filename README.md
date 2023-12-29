@@ -59,3 +59,5 @@
 | Name: | Spectrum Blocks |
 | Registry name: | spectrum_blocks |
 | Command: | spectrum_blocks:spectrumblock_1- from: 1 to: 480. |
+
+# [Documentation](https://github.com/Kisonix-Dev/Spectrum-Blocks/wiki/Documentation)
