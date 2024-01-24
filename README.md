@@ -1,4 +1,4 @@
-![Spectrum_Blocks_logo](docs/Spectrum_Blocks_logo.png)
+![Spectrum_Blocks_logo](img/Spectrum_Blocks_logo.png)
 
 # Spectrum Blocks
 
