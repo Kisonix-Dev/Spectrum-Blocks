@@ -1,6 +1,6 @@
 ![Spectrum_Blocks_logo](img/Spectrum_Blocks_logo.png)
 
-# Spectrum Blocks
+# Spectrum blocks
 
 • Hello. I recently developed a mod called Spectrum Blocks.
 
